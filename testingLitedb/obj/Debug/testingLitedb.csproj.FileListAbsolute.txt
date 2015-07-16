@@ -1,0 +1,8 @@
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\obj\Debug\testingLitedb.csprojResolveAssemblyReference.cache
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\bin\Debug\testingLitedb.exe.config
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\bin\Debug\testingLitedb.exe
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\bin\Debug\testingLitedb.pdb
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\bin\Debug\LiteDB.dll
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\bin\Debug\LiteDB.xml
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\obj\Debug\testingLitedb.exe
+D:\Info. Tech\Programming\c# files\_Code\RWASInventory\testingLitedb\obj\Debug\testingLitedb.pdb
